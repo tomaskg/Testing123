@@ -1,3 +1,2 @@
 textgenrnn
 tensorflow
-git+git://github.com/fchollet/keras.git --upgrade
